@@ -1,0 +1,16 @@
+{
+    "connection": {
+        "server_host": "127.0.0.1",
+        "server_port": 5555,
+        "auto_reconnect": true,
+        "timeout": 30
+    },
+    "credentials": {
+        "username": "",
+        "save_password": false
+    },
+    "network": {
+        "dns_servers": ["8.8.8.8", "1.1.1.1"],
+        "mtu": 1500
+    }
+}

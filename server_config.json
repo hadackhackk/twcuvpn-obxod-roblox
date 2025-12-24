@@ -1,0 +1,21 @@
+{
+    "server": {
+        "host": "0.0.0.0",
+        "port": 5555,
+        "max_clients": 100,
+        "timeout": 300,
+        "log_file": "vpn_server.log"
+    },
+    "security": {
+        "encryption": true,
+        "require_auth": true,
+        "session_timeout": 3600
+    },
+    "users": [
+        {
+            "username": "admin",
+            "role": "administrator",
+            "permissions": ["full_access"]
+        }
+    ]
+}
