@@ -1,2 +1,3 @@
-# twcuvpn-obxod-roblox
-TWCUVPN!!
+# TWCUVPN - обходик роблокса
+ГАЙД ДЛЯ ЧАЙНИКОВ (ЕСЛИ НЕ ЗНАЕТ)
+Скачаете Python и запускате "setup.py" и ждите!!
